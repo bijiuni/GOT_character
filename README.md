@@ -32,20 +32,22 @@ All the words in the plot introduction can be located by finding the ‘p’ tap
 
 
 ## Character list:
-Trace 0: Robert Baratheon
-Trace 1: Jon Snow
-Trace 2: Arya Stark
-Trace 3: Cersei Lannister
-Trace 4: Jaime Lannister
-Trace 5: Tyrion Lannister
-Trace 6: Daenerys Targaryen
-Trace 7: Petyr Baelish
-Trace 8: Jaqen H'ghar
-Trace 9: Hodor
+Trace 0: Robert Baratheon  
+Trace 1: Jon Snow  
+Trace 2: Arya Stark  
+Trace 3: Cersei Lannister  
+Trace 4: Jaime Lannister  
+Trace 5: Tyrion Lannister  
+Trace 6: Daenerys Targaryen  
+Trace 7: Petyr Baelish  
+Trace 8: Jaqen H'ghar  
+Trace 9: Hodor  
 
 ## Results
 
-
+![](https://github.com/bijiuni/GOT_character/blob/master/result1.jpg)
+![](https://github.com/bijiuni/GOT_character/blob/master/result2.jpg)
+![](https://github.com/bijiuni/GOT_character/blob/master/result3.jpg)
 
 ## Package
 
