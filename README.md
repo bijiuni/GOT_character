@@ -27,7 +27,7 @@ Two new files will be generated after running the program: the log file ‘GOTsp
 
 ## Information Selection and Data pattern
 
-Even in a single episode page in the game of thrones wiki website, there are a large number of links that lead to character pages, other episode pages, location pages and etc. To extract the link to the next episode of the episode the program is currently visiting, a certain pattern of the ‘next episode links’ needs to be found. It was discovered that the link to the next episode is always in a table (and the only table in the page) and it is always the last link in the table. Therefore, the following codes were written to first locate the table in the page, then saves all links into a list ‘epillist’ and finally extract the last link in the list.
+Even in a single episode page in the game of thrones wiki website, there are a large number of links that lead to character pages, other episode pages, location pages and etc. To extract the link to the next episode of the episode the program is currently visiting, a certain pattern of the ‘next episode links’ needs to be found. It was discovered that the link to the next episode is always in a table (and the only table in the page) and it is always the last link in the table. Therefore, codes were written to first locate the table in the page, then saves all links into a list ‘epillist’ and finally extract the last link in the list.
 All the words in the plot introduction can be located by finding the ‘p’ tap in the soup object. Thus simply counting the character name in the parts that are tagged as ‘p’ we can obtain the occurrences in a single episode.
 
 
