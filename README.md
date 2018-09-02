@@ -5,7 +5,7 @@ a Python program is developed to extract, save and process information from a we
 
 ### Prerequisites
 
-The program used ipyton 1.2 version to run
+The program was run using ipyton 1.2 version
 
 The igraph package has been renewed so please first update in terminal
 
