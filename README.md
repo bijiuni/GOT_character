@@ -1,4 +1,4 @@
-# A Web Crawler Studying the Character Occurences in the TV show Game of Thrones
+# A Web Crawler Studying the Character Occurrences in the TV show Game of Thrones
 
 a Python program is developed to extract, save and process information from a website called ‘Game of Thrones Wiki’. The hyper-textual network contains a great quantity of data like episode plots, character introductions, world cultures centering the television show ‘Game of Thrones’, which is known for its enormous and complex character network. This study makes use of a series of links that contain episode plot introduction. The occurrences of a character are important indicators of the importance of the character during certain periods of the show. It is thus interesting to extract this information from the website and compare the change in character occurrences as visually as possible.
 
